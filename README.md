@@ -3,8 +3,6 @@
 
 #### Video Demo:  https://youtu.be/caHaj2po0mM?feature=shared
 
-## Introduction
-- Hello, I'm Matin. I'm a 24 years old boy who David changed his life for good. I kind of understand how stupid I am comparing to you, but one thing that I have learned from CS50 is that I can learn and grow, I have the faculty to become as smart as you guys. without further ado allow me to present my project.
 ## St4rChess Project
 - Chess in one of my favorite games of all time, I'm playing since my childhood. So I decided to write a chess board with JavaScript as my last project. (actually I was going to define a chess engine to play against but it is long passed my deadline. I will present a better project for CS50w.)
 - I decided to write my game with JavaScript for a few reasons, viz.:
