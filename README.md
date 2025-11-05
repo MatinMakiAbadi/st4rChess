@@ -4,8 +4,8 @@
 #### Video Demo:  https://youtu.be/caHaj2po0mM?feature=shared
 
 ## St4rChess Project
-- Chess in one of my favorite games of all time, I'm playing since my childhood. So I decided to write a chess board with JavaScript as my last project. (actually I was going to define a chess engine to play against but it is long passed my deadline. I will present a better project for CS50w.)
-- I decided to write my game with JavaScript for a few reasons, viz.:
+- I decided to write a chess board with JavaScript as my final CS50 project.
+- I coded my board using JavaScript for 3 reasons, viz.:
 	1. Easy to visualize stuff.
 	2. Object oriented.
 	3. Easy to debug.
