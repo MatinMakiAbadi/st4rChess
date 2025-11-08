@@ -1,6 +1,6 @@
 # St4rChess
 
-!(https://github.com/MatinMakiAbadi/st4rChess/blob/main/Icon.png)
+![st4rChess Icon](https://github.com/MatinMakiAbadi/st4rChess/blob/main/Icon.png?raw=true)
 
 - A JavaScript Object for a standard Chess Board.
 
