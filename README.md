@@ -1,4 +1,7 @@
 # St4rChess
+
+!(https://github.com/MatinMakiAbadi/st4rChess/blob/main/Icon.png)
+
 - A JavaScript Object for a standard Chess Board.
 
 #### Video Demo:  https://youtu.be/caHaj2po0mM?feature=shared
